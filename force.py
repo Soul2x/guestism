@@ -18,7 +18,7 @@ G = '\x1b[0;32;40m'
 # Initialize and login to Samino client
 import samino
 
-# Input email and password
+
 email = input("Enter your email: ")
 password = input("Enter your password: ")
 
